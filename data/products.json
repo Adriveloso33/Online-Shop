@@ -1,62 +1,62 @@
 [
   {
     "id": 0,
-    "description": "Polo manga larga estampada",
+    "description": "Polo manga larga estampado",
     "image": "/images/1.png",
-    "price": 5
+    "price": 35.95
   },
   {
     "id": 1,
     "description": "Polo manga larga bandas",
     "image": "/images/2.png",
-    "price": 8
+    "price": 39.95
   },
   {
     "id": 2,
-    "description": "Polo manga larga estampada",
+    "description": "Polo manga larga estampado",
     "image": "/images/3.png",
-    "price": 10
+    "price": 35.95
   },
   {
     "id": 3,
-    "description": "Polo manga larga estampada",
+    "description": "Polo manga larga estampado",
     "image": "/images/4.png",
-    "price": 3
+    "price": 35.95
   },
   {
     "id": 4,
-    "description": "Polo manga larga bandas",
+    "description": "Polo manga larga estampado",
     "image": "/images/5.png",
-    "price": 1
+    "price": 35.95
   },
   {
     "id": 5,
-    "description": "Polo manga larga estampada",
+    "description": "Polo manga larga clásico",
     "image": "/images/6.png",
-    "price": 4
+    "price": 29.95
   },
   {
     "id": 6,
-    "description": "Polo manga larga estampada",
+    "description": "Polo manga larga clásico",
     "image": "/images/7.png",
-    "price": 5
+    "price": 29.95
   },
   {
     "id": 7,
-    "description": "Polo manga larga bandas",
+    "description": "Polo manga larga clásico",
     "image": "/images/8.png",
-    "price": 8
+    "price": 29.95
   },
   {
     "id": 8,
-    "description": "Polo manga larga estampada",
+    "description": "Polo manga larga rayas",
     "image": "/images/9.png",
-    "price": 10
+    "price": 25.95
   },
   {
     "id": 9,
-    "description": "Polo manga larga estampada",
+    "description": "Polo manga larga clásico",
     "image": "/images/10.png",
-    "price": 3
+    "price": 29.95
   }
 ]
